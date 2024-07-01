@@ -18,7 +18,7 @@ title: Home
     <p class="col-md-8 fs-4">
       Later, when a reporter asked what made him decide to take a patio chair aloft, Walters explained:    
     </p>
-    <blockquote class="blockquote text-end">
+    <blockquote class="blockquote text-end pt-5">
       <p class="display-5 fw-bold">
         <em>"A man can't just sit around."</em>
       </p>
