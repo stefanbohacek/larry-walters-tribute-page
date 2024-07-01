@@ -11,7 +11,7 @@ title: Home
 
 
 <div class="my-5 py-5 bg-body-tertiary rounded-3">
-  <div class="container-fluid py-5">
+  <div class="container-fluid p-5">
     <p class="col-md-8 fs-4">
       On July 2, 1982, Larry Walters attached 43 weather balloons to his lawn chair, filled them with helium, put on a parachute, and strapped himself into the chair.
     </p>
@@ -48,7 +48,7 @@ title: Home
   </div>
 </div>
 <div class="mt-5">
-  <div class="container-fluid mt-5">
+  <div class="container-fluid mt-5 pt-3 px-5">
     <p class="col-md-8 fs-4 mt-5">
       Unfortunately, Larry's life story has <a href="https://web.archive.org/web/20110110101715/http://www.people.com/people/archive/article/0,,20106985,00.html">a tragic ending</a>. When Larry was 44 years old, he hiked to his favorite spot in the forest and shot himself in the heart, ending his life.
     </p>
@@ -57,7 +57,7 @@ title: Home
     </p>
   </div>
 </div>
-<div class="my-5 py-5 py-5 text-center">
+<div class="my-5 p-5 text-center">
 <img src="assets/photos/larry-walters-balloons.png" title="A black and white photo of Larry Walters taken from distance, sitting in his lawn chair with ballons clustered in four distinct groups, attached to his chair.">
 </div>
 <div class="mt-5">
