@@ -74,6 +74,9 @@ title: Home
   <li>
     <a href="https://www.latimes.com/archives/la-xpm-1993-11-24-mn-60236-story.html">Larry Walters; Soared to Fame on Lawn Chair</a> <small class="text-muted">latimes.com</small> 
   </li>
+  <li>
+    <a href="https://42balloons.com/">42 Balloons</a>: a musical inspired by Larry's story <small class="text-muted">42balloons.com</small> 
+  </li>
   <!-- <li>
     <a href="XXXX">XXXX</a> <small class="text-muted">xxxxxx</small> 
   </li>
