@@ -20,7 +20,7 @@ title: Home
     </p>
     <blockquote class="blockquote text-end pt-5">
       <p class="display-5 fw-bold">
-        <em>"A man can't just sit around."</em>
+        <em>&ldquo;A man can't just sit around.&rdquo;</em>
       </p>
     </blockquote>
   </div>
