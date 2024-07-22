@@ -58,7 +58,7 @@ title: Home
   </div>
 </div>
 <div class="my-5 p-5 text-center">
-<img class="mw-100 rounded-3" src="assets/photos/larry-walters-balloons.png" title="A black and white photo of Larry Walters taken from distance, sitting in his lawn chair with balloons clustered in four distinct groups, attached to his chair.">
+<img class="mw-100 rounded-4" src="assets/photos/larry-walters-balloons.png" title="A black and white photo of Larry Walters taken from distance, sitting in his lawn chair with balloons clustered in four distinct groups, attached to his chair.">
 </div>
 <div class="mt-5">
 <ul>
