@@ -5,7 +5,7 @@ title: Home
 
 <div class="alert alert-dark mb-5" role="alert">
   <strong>
-    Heads-up: This tribute page mentions suicide. If you or your loved ones need help, in the United States you can call <a href="https://988lifeline.org/">988</a> to reach the Suicide & Crisis Lifeline.
+    Heads-up: This tribute page mentions suicide. If you or your loved ones need help, in the United States you can call <a href="https://988lifeline.org/">988</a> to reach the Suicide & Crisis Lifeline. <a href="https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines">More resources.</a>
   </strong>
 </div>
 
